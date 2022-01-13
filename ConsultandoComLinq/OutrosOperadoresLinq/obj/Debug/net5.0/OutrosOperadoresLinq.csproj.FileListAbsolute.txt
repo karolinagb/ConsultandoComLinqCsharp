@@ -1,0 +1,16 @@
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\obj\Debug\net5.0\OutrosOperadoresLinq.csproj.AssemblyReference.cache
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\obj\Debug\net5.0\OutrosOperadoresLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\obj\Debug\net5.0\OutrosOperadoresLinq.AssemblyInfoInputs.cache
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\obj\Debug\net5.0\OutrosOperadoresLinq.AssemblyInfo.cs
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\obj\Debug\net5.0\OutrosOperadoresLinq.csproj.CoreCompileInputs.cache
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\bin\Debug\net5.0\OutrosOperadoresLinq.exe
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\bin\Debug\net5.0\OutrosOperadoresLinq.deps.json
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\bin\Debug\net5.0\OutrosOperadoresLinq.runtimeconfig.json
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\bin\Debug\net5.0\OutrosOperadoresLinq.runtimeconfig.dev.json
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\bin\Debug\net5.0\OutrosOperadoresLinq.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\bin\Debug\net5.0\ref\OutrosOperadoresLinq.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\bin\Debug\net5.0\OutrosOperadoresLinq.pdb
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\obj\Debug\net5.0\OutrosOperadoresLinq.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\obj\Debug\net5.0\ref\OutrosOperadoresLinq.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\obj\Debug\net5.0\OutrosOperadoresLinq.pdb
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OutrosOperadoresLinq\obj\Debug\net5.0\OutrosOperadoresLinq.genruntimeconfig.cache

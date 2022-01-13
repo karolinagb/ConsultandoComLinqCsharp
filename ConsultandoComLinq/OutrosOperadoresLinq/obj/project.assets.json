@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\ConsultandoComLinqCsharp\\ConsultandoComLinq\\ConsultandoCollections\\ConsultandoCollections.csproj",
-      "projectName": "ConsultandoCollections",
-      "projectPath": "C:\\projetos\\ConsultandoComLinqCsharp\\ConsultandoComLinq\\ConsultandoCollections\\ConsultandoCollections.csproj",
+      "projectUniqueName": "C:\\projetos\\ConsultandoComLinqCsharp\\ConsultandoComLinq\\OutrosOperadoresLinq\\OutrosOperadoresLinq.csproj",
+      "projectName": "OutrosOperadoresLinq",
+      "projectPath": "C:\\projetos\\ConsultandoComLinqCsharp\\ConsultandoComLinq\\OutrosOperadoresLinq\\OutrosOperadoresLinq.csproj",
       "packagesPath": "C:\\Users\\Karol\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\ConsultandoComLinqCsharp\\ConsultandoComLinq\\ConsultandoCollections\\obj\\",
+      "outputPath": "C:\\projetos\\ConsultandoComLinqCsharp\\ConsultandoComLinq\\OutrosOperadoresLinq\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karol\\AppData\\Roaming\\NuGet\\NuGet.Config",
