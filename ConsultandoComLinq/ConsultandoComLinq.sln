@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultandoCollections", "ConsultandoCollections\ConsultandoCollections.csproj", "{6AFCFE78-3BEF-479D-9947-5B12E80596A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutrosOperadoresLinq", "OutrosOperadoresLinq\OutrosOperadoresLinq.csproj", "{735302A0-056A-43F5-AF20-AC05E49B591A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutrosOperadoresLinq", "OutrosOperadoresLinq\OutrosOperadoresLinq.csproj", "{735302A0-056A-43F5-AF20-AC05E49B591A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresDeConjuntosLinq", "OperadoresDeConjuntosLinq\OperadoresDeConjuntosLinq.csproj", "{F667C418-CB96-4AAA-8D3D-2A86CAF88793}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{735302A0-056A-43F5-AF20-AC05E49B591A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{735302A0-056A-43F5-AF20-AC05E49B591A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{735302A0-056A-43F5-AF20-AC05E49B591A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F667C418-CB96-4AAA-8D3D-2A86CAF88793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F667C418-CB96-4AAA-8D3D-2A86CAF88793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F667C418-CB96-4AAA-8D3D-2A86CAF88793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F667C418-CB96-4AAA-8D3D-2A86CAF88793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

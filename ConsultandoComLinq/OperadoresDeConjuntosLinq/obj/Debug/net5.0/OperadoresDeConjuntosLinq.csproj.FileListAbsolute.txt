@@ -1,0 +1,16 @@
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\bin\Debug\net5.0\OperadoresDeConjuntosLinq.exe
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\bin\Debug\net5.0\OperadoresDeConjuntosLinq.deps.json
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\bin\Debug\net5.0\OperadoresDeConjuntosLinq.runtimeconfig.json
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\bin\Debug\net5.0\OperadoresDeConjuntosLinq.runtimeconfig.dev.json
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\bin\Debug\net5.0\OperadoresDeConjuntosLinq.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\bin\Debug\net5.0\ref\OperadoresDeConjuntosLinq.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\bin\Debug\net5.0\OperadoresDeConjuntosLinq.pdb
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\obj\Debug\net5.0\OperadoresDeConjuntosLinq.csproj.AssemblyReference.cache
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\obj\Debug\net5.0\OperadoresDeConjuntosLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\obj\Debug\net5.0\OperadoresDeConjuntosLinq.AssemblyInfoInputs.cache
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\obj\Debug\net5.0\OperadoresDeConjuntosLinq.AssemblyInfo.cs
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\obj\Debug\net5.0\OperadoresDeConjuntosLinq.csproj.CoreCompileInputs.cache
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\obj\Debug\net5.0\OperadoresDeConjuntosLinq.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\obj\Debug\net5.0\ref\OperadoresDeConjuntosLinq.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\obj\Debug\net5.0\OperadoresDeConjuntosLinq.pdb
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\OperadoresDeConjuntosLinq\obj\Debug\net5.0\OperadoresDeConjuntosLinq.genruntimeconfig.cache
