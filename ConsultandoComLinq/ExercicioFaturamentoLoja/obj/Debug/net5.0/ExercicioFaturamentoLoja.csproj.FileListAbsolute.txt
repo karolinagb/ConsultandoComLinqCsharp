@@ -1,0 +1,16 @@
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\bin\Debug\net5.0\ExercicioFaturamentoLoja.exe
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\bin\Debug\net5.0\ExercicioFaturamentoLoja.deps.json
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\bin\Debug\net5.0\ExercicioFaturamentoLoja.runtimeconfig.json
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\bin\Debug\net5.0\ExercicioFaturamentoLoja.runtimeconfig.dev.json
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\bin\Debug\net5.0\ExercicioFaturamentoLoja.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\bin\Debug\net5.0\ref\ExercicioFaturamentoLoja.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\bin\Debug\net5.0\ExercicioFaturamentoLoja.pdb
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\obj\Debug\net5.0\ExercicioFaturamentoLoja.csproj.AssemblyReference.cache
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\obj\Debug\net5.0\ExercicioFaturamentoLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\obj\Debug\net5.0\ExercicioFaturamentoLoja.AssemblyInfoInputs.cache
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\obj\Debug\net5.0\ExercicioFaturamentoLoja.AssemblyInfo.cs
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\obj\Debug\net5.0\ExercicioFaturamentoLoja.csproj.CoreCompileInputs.cache
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\obj\Debug\net5.0\ExercicioFaturamentoLoja.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\obj\Debug\net5.0\ref\ExercicioFaturamentoLoja.dll
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\obj\Debug\net5.0\ExercicioFaturamentoLoja.pdb
+C:\projetos\ConsultandoComLinqCsharp\ConsultandoComLinq\ExercicioFaturamentoLoja\obj\Debug\net5.0\ExercicioFaturamentoLoja.genruntimeconfig.cache
